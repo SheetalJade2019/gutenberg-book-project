@@ -1,0 +1,411 @@
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\serializers.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1'], 'language': ['en'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - get_pks_from_lang - pks_from_lang : 44938
+root - INFO - main_pks - length - 33723
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1'], 'language': ['enh'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - get_pks_from_lang - pks_from_lang : 0
+root - INFO - main_pks - length - 40441
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['enh'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - get_pks_from_lang - pks_from_lang : 0
+root - INFO - main_pks  - length - 40441
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['enh']}>
+root - INFO - main pks is empty for - else 
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - WARNING - This will get logged to a file
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr']}>
+root - INFO - main pks is empty for - else 
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\serializers.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr']}>
+root - INFO - main pks is empty for - else 
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain']}>
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain'], 'author': ['Jefferson, Thomas']}>
+root - INFO - filtering on mime_type---1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language---2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author---3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - main_pks  - length - 5
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain'], 'author': ['Jefferson, Thomas']}>
+root - INFO - filtering on mime_type---1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language---2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author---3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - main_pks  - length - 5
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\serializers.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - WARNING - This will get logged to a file
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - main pks is empty for - not gutenberg_id and title 
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\project\urls.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War'], 'author': ['Jefferson, Thomas'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+django.request - WARNING - Not Found: /favicon.ico
+django.request - WARNING - Not Found: /
+django.request - WARNING - Not Found: /app2
+django.request - WARNING - Not Found: /app2/
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - main pks is empty for - else 
+root - INFO - pagination
+django.request - WARNING - Not Found: /app2/book_list/
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\urls.py changed, reloading.
+root - INFO -  Serializer called
+django.request - WARNING - Not Found: /app2/ book_list/
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - main pks is empty for - else 
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - ERROR - Exception book_list API : all() got an unexpected keyword argument 'id__lte'
+django.request - WARNING - Forbidden: /app2/book_list/
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['2']}>
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['2']}>
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\project\settings.py changed, reloading.
+root - INFO -  Serializer called
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['2'], 'gutenberg_id': ['1']}>
+root - INFO - main pks is empty for - gutenberg_id and not title 
+root - INFO - pagination
+django.request - WARNING - Bad Request: /app2/book_list/
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1']}>
+root - INFO - main pks is empty for - gutenberg_id and not title 
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - main pks is empty for - gutenberg_id and title 
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - main pks is empty for - not gutenberg_id and title 
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {}>
+root - INFO - main pks is empty for - else 
+root - INFO - pagination
+django.request - WARNING - Not Found: /app2/book_list/1
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1']}>
+root - INFO - main pks is empty for - gutenberg_id and not title 
+root - INFO - pagination
+django.request - WARNING - Not Found: /app2/book_list/1
+django.request - WARNING - Not Found: /app2/book_list/1
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'author': ['Jefferson, Thomas']}>
+root - INFO - main pks is empty for - else 
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Jefferson, Thomas'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America'], 'gutenberg_id': ['1']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Jefferson, Thomas'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America'], 'gutenberg_id': ['1']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Jefferson, Thomas'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America'], 'gutenberg_id': ['1']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1']}>
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Jefferson, Thomas'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America'], 'gutenberg_id': ['1']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Jefferson, Thomas'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration of Independence of the United States of America'], 'gutenberg_id': ['1']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - main_pks  - length - 40441
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'title': ['The ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - main_pks  - length - 40441
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - main_pks  - length - 40441
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 2786
+root - INFO - main_pks  - length - 1822
+root - INFO - pagination
+django.utils.autoreload - INFO - D:\STY\project\gutenberg\project\app2\views.py changed, reloading.
+root - INFO -  Serializer called
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 2786
+root - INFO - main_pks  - length - 1822
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['Thomas'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 1029
+root - INFO - main_pks  - length - 716
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['george'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 2027
+root - INFO - main_pks  - length - 1485
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['georg'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 2295
+root - INFO - main_pks  - length - 1661
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['t'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 26404
+root - INFO - main_pks  - length - 16579
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - main_pks  - length - 35532
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['e'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 43175
+root - INFO - main_pks  - length - 26418
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['e'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 43175
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks  - length - 5
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['united'], 'topic': ['American Revolutionary War'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 157
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks  - length - 2
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'mime_type': ['text/plain'], 'language': ['en,fr'], 'author': ['t'], 'topic': ['united'], 'title': ['The Declaration ']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 26404
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (304, 3750, 2837)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks  - length - 1293
+root - INFO - pagination
+root - INFO - Input data for book_list API : <QueryDict: {'page': ['1'], 'gutenberg_id': ['1'], 'language': ['en,fr'], 'mime_type': ['text/plain'], 'topic': ['American Revolutionary War'], 'author': ['Jefferson, Thomas'], 'title': ['The Declaration of Independence of the United States of America']}>
+root - INFO - filtering on mime_type------------1
+root - INFO - get_pks_from_mimetype - pks_from_mimetype : 40441
+root - INFO - filtering on language------------2
+root - INFO - get_pks_from_lang - pks_from_lang : 47724
+root - INFO - filtering on author------------3
+root - INFO - get_pks_from_author - pks_from_author : 16
+root - INFO - filtering on topic---4
+root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topic : (5, 0, 5)
+root - INFO - no result for filtering on topic---4
+root - INFO - main_pks - length - 1
+root - INFO - pagination
