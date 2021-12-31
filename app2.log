@@ -409,3 +409,5 @@ root - INFO - get_pks_from_topic - pks_from_shelf - pks_from_sub - pks_from_topi
 root - INFO - no result for filtering on topic---4
 root - INFO - main_pks - length - 1
 root - INFO - pagination
+root - INFO -  Serializer called
+root - INFO -  Serializer called

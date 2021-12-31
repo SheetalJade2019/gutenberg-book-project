@@ -26,7 +26,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["localhost", "gutenberg301221.herokuapp.com"]
+ALLOWED_HOSTS = ["localhost", "gutenberg301221.herokuapp.com",'127.0.0.1','0.0.0.0','*']
 
 
 # Application definition
@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'book_db',
         'USER' : 'bookuser',
         'PASSWORD':'password',
-        'HOST':'localhost',
+        'HOST':'127.0.0.1',
         'POST': 3306
     }
 }
