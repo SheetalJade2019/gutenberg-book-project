@@ -82,16 +82,29 @@ WSGI_APPLICATION = 'project.wsgi.application'
 #     }
 # }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'book_db',
+#         'USER' : 'bookuser',
+#         'PASSWORD':'password',
+#         'HOST':'localhost',
+#         'POST': 3306
+#     }
+# }
+########## pythonanywhere
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'book_db',
-        'USER' : 'bookuser',
-        'PASSWORD':'password',
-        'HOST':'localhost',
+        'NAME': 'SheetalJade2019$book_db',
+        'USER' : 'SheetalJade2019',
+        'PASSWORD':'Jade2151',
+        'HOST':'SheetalJade2019.mysql.pythonanywhere-services.com',
         'POST': 3306
     }
 }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
